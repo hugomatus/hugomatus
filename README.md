@@ -1,5 +1,5 @@
-##### Software Architecture and Engineering 
-```Cloud Native | Architecture | Microservices | Kubernetes | Golang```
+##### Hugo O. Matus
+```Bridging Strategic Vision with Software Engineering Practices | 20+ Years in IT & Software Engineering```
 
 [LinkedIn](https://www.linkedin.com/in/hugomatus/) | [Blog: ArchiBytes](https://hugomatus.github.io/archibytes/)
 
