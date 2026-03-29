@@ -1,7 +1,7 @@
 ##### Hugo O. Matus
 ```Bridging Strategic Vision with Software Engineering Practices | 20+ Years in IT & Software Engineering```
 
-[LinkedIn](https://www.linkedin.com/in/hugomatus/) | [Blog: ArchiBytes](https://hugomatus.github.io/archibytes/)
+[LinkedIn](https://www.linkedin.com/in/hugomatus/)
 
 ---
 
